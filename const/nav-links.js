@@ -1,6 +1,6 @@
 export const mainRoutes = [
   { name: "home", path: "/" },
-  { name: "caesarstone", path: "/caesarstone" },
+  { name: "caesarstone", path: "/wholesales/caesarstone" },
   { name: "quartz stone", path: "/quartz-stone" },
   { name: "granite", path: "/granite" },
   { name: "tools", path: "/tools" },

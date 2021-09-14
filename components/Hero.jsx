@@ -12,6 +12,7 @@ const Hero = ({ imgSrc, imgAlt, title, subtitle }) => {
         width: `100%`,
         overflow: `hidden`,
         zIndex: "-100",
+        mb: 20,
       }}
     >
       <Image src={imgSrc} alt={imgAlt} layout="fill" objectFit="cover" />
@@ -56,7 +57,7 @@ const Hero = ({ imgSrc, imgAlt, title, subtitle }) => {
             color="common.white"
             sx={{
               mb: 10,
-              zIndex: "102",
+              zIndex: "101",
             }}
           >
             {subtitle}
