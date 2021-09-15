@@ -42,7 +42,7 @@ export default function Index() {
               scrolling="no"
               frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowFullFcreen
+              allowFullScreen
             ></iframe>
           </Grid>
         </Paper>
