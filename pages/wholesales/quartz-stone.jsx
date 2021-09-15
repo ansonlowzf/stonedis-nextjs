@@ -27,139 +27,135 @@ const QuartzStone = () => {
         <Grid container justifyContent="center" spacing={1}>
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101503.png"
-            stoneName="Smoothie White"
+            stoneName="Q101503 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101506.png"
-            stoneName="Smoothie Grey"
+            stoneName="Q101506 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101508.png"
-            stoneName="Smoothie Beige"
+            stoneName="Q101508 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101509.png"
-            stoneName="Red Mirror"
+            stoneName="Q101509 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101510.png"
-            stoneName="Brown Mirror"
+            stoneName="Q101510 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101511.png"
-            stoneName="Blue Mirror"
+            stoneName="Q101511 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101512.png"
-            stoneName="Purple Mirror"
+            stoneName="Q101512 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101513.png"
-            stoneName="Orange Mirror"
+            stoneName="Q101513 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101521.png"
-            stoneName="White Mirror"
+            stoneName="Q101521 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101522.png"
-            stoneName="Black Mirror"
+            stoneName="Q101522 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101523.png"
-            stoneName="Snow White"
+            stoneName="Q101523 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101524.png"
-            stoneName="Grey Mirror"
+            stoneName="Q101524 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101525.png"
-            stoneName="Beige Mirror"
+            stoneName="Q101525 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101526.png"
-            stoneName="Crystal White"
+            stoneName="Q101526"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101527.png"
-            stoneName="White Planet"
+            stoneName="Q101527 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q101528.png"
-            stoneName="Icy White"
+            stoneName="Q101528 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q3015.png"
-            stoneName="Shell King"
+            stoneName="Q3015 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q201501.png"
-            stoneName="Brown Cream"
-          />
-          <ZenstoneDisplay
-            imgSrc="/quartz-stone/Q201502.png"
-            stoneName="Yellow Hill"
+            stoneName="Q201501 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q201503.png"
-            stoneName="England Coffee"
+            stoneName="Q201503 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q201505.png"
-            stoneName="Pure Black"
+            stoneName="Q201505 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q201506.png"
-            stoneName="Grey Forest"
+            stoneName="Q201506 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q202032.png"
-            stoneName="Pure Grey"
+            stoneName="Q202032 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q4015.png"
-            stoneName="Purple Galaxy"
+            stoneName="Q4015 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601501.png"
-            stoneName="Blue Sapphire"
+            stoneName="Q601501 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601502.png"
-            stoneName="Beige Gold"
+            stoneName="Q601502 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601503.png"
-            stoneName="White Gold"
+            stoneName="Q601503 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601504.png"
-            stoneName="Cameo"
+            stoneName="Q601504 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601505.png"
-            stoneName="Black Gold"
+            stoneName="Q601505 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601506.png"
-            stoneName="White Gold Sand"
+            stoneName="Q601506 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601507.png"
-            stoneName="Beige Gold Medium"
+            stoneName="Q601507 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601508.png"
-            stoneName="Coffee Gold Sand"
+            stoneName="Q601508 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q601509.png"
-            stoneName="Golden Coffee"
+            stoneName="Q601509 (Polished)"
           />
           <ZenstoneDisplay
             imgSrc="/quartz-stone/Q201541.png"
-            stoneName="Super White"
+            stoneName="Q201541 (Polished)"
           />
         </Grid>
       </SectionContainer>
@@ -167,47 +163,47 @@ const QuartzStone = () => {
         <Grid container spacing={1} justifyContent="center">
           <SlabDisplay
             imgSrc="/quartz-stone/Q801501slab.jpg"
-            stoneName="Cararra White"
+            stoneName="Q801501 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q801534.jpg"
-            stoneName="Black Ice Bloom"
+            stoneName="Q801534 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q801535.jpg"
-            stoneName="Black Marquina S"
+            stoneName="Q801535 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802021.jpg"
-            stoneName="Snow Flower"
+            stoneName="Q802021 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802023.jpg"
-            stoneName="Arabescato Corchia"
+            stoneName="Q802023 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802025.jpeg"
-            stoneName="Black Marquina"
+            stoneName="Q802025 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802026.jpg"
-            stoneName="Fabricator White"
+            stoneName="Q802026 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802027.jpg"
-            stoneName="Staturio White"
+            stoneName="Q802027 (Polished)"
           />
 
           <SlabDisplay
             imgSrc="/quartz-stone/Q802031-slab.jpg"
-            stoneName="Calacatta Venato"
+            stoneName="Q802031 (Polished)"
           />
         </Grid>
       </SectionContainer>
