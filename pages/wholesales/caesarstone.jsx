@@ -15,7 +15,7 @@ const CaesarstonePage = () => {
         pagePath="wholesales/caesarstone"
         metaImg="/caesarstone/hero.jpg"
       />
-      <Hero
+      <Herok
         title="Wholesales Caesarstone"
         subtitle="Distribute Caesarstone in Malaysia"
         imgSrc="/caesarstone/hero.jpg"
