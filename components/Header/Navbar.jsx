@@ -18,6 +18,7 @@ const Navbar = () => {
             variant="button"
             underline="none"
             sx={{
+              opacity: 0.7,
               "&:hover": {
                 color: "secondary.main",
               },

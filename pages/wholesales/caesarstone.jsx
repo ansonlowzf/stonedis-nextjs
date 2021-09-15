@@ -4,10 +4,17 @@ import { Grid, Typography } from "@mui/material";
 import { H2title } from "element/Heading";
 import { SectionContainer } from "element/SectionContainer";
 import ContactUs from "@components/ContactUs";
+import MetaHead from "@components/MetaHead";
 
 const CaesarstonePage = () => {
   return (
     <>
+      <MetaHead
+        pageTitle="Wholesales Caesarstone Slab"
+        pageDesc="We distributor / wholesale Caesarstone quartz surface slab in Malaysia"
+        pagePath="wholesales/caesarstone"
+        metaImg="/caesarstone/hero.jpg"
+      />
       <Hero
         title="Wholesales Caesarstone"
         subtitle="Distribute Caesarstone in Malaysia"

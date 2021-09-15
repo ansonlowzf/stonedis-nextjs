@@ -5,5 +5,4 @@ export const mainRoutes = [
   { name: "granite", path: "/wholesales/granite" },
   { name: "tools", path: "/tools" },
   { name: "faq", path: "/faq" },
-  { name: "contact us", path: "/contact" },
 ];

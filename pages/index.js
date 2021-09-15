@@ -4,10 +4,17 @@ import { H2title } from "element/Heading";
 import SectionText from "element/SectionText";
 import { Paper, Grid, Typography } from "@mui/material";
 import ContactUs from "@components/ContactUs";
+import MetaHead from "@components/MetaHead";
 
 export default function Index() {
   return (
     <>
+      <MetaHead
+        pageTitle="Homepage"
+        pageDesc="We distributor / wholesale quartz stone, sintered stone, granite, marble and onyx in Malaysia"
+        pagePath=""
+        metaImg="/home/hero.jpg"
+      />
       <Hero
         title="Stone Distributor Malaysia"
         subtitle="Stone Surfacing Slab Distribution"

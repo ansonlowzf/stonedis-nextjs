@@ -4,10 +4,17 @@ import { H2title } from "element/Heading";
 import { Typography, Grid } from "@mui/material";
 import ContactUs from "@components/ContactUs";
 import Image from "next/image";
+import MetaHead from "@components/MetaHead";
 
 const Granite = () => {
   return (
     <>
+      <MetaHead
+        pageTitle="Wholesales Granite Slab"
+        pageDesc="We distributor / wholesale granite slab in Malaysia"
+        pagePath="wholesales/granite"
+        metaImg="/granite/hero.png"
+      />
       <Hero
         title="Wholesales Granite Slab"
         subtitle="Distribute Granite Slab in Malaysia"

@@ -5,10 +5,17 @@ import { SectionContainer } from "element/SectionContainer";
 import { H2title } from "element/Heading";
 import { SlabDisplay } from "@components/SlabDisplay";
 import ContactUs from "@components/ContactUs";
+import MetaHead from "@components/MetaHead";
 
 const QuartzStone = () => {
   return (
     <>
+      <MetaHead
+        pageTitle="Wholesales Quartz Stone Slab"
+        pageDesc="We distributor / wholesale genuine OEM quartz surface slab in Malaysia"
+        pagePath="wholesales/quartz-stone"
+        metaImg="/quartz-stone/hero.png"
+      />
       <Hero
         title="Wholesales Genuine Quartz Stone"
         subtitle="Distribute Genuine Quartz Stone in Malaysia"
