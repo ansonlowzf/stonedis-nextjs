@@ -13,14 +13,19 @@
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "sharp": "^0.29.1"
   },
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
   },
   "devDependencies": {
-    "globby": "^12.0.2"
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "next-sitemap": "^1.6.168"
   }
 }
