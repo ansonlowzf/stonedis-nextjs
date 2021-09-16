@@ -12,7 +12,7 @@ const QuartzStone = () => {
     <>
       <MetaHead
         pageTitle="Wholesales Quartz Stone Slab"
-        pageDesc="We distributor / wholesale genuine OEM quartz surface slab in Malaysia"
+        pageDesc="We distribute and wholesale genuine OEM quartz surface slab in Malaysia"
         pagePath="wholesales/quartz-stone"
         metaImg="/quartz-stone/hero.png"
       />

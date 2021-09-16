@@ -11,7 +11,7 @@ const CaesarstonePage = () => {
     <>
       <MetaHead
         pageTitle="Wholesales Caesarstone Slab"
-        pageDesc="We distributor / wholesale Caesarstone quartz surface slab in Malaysia"
+        pageDesc="We distribute and wholesale Caesarstone quartz surface slab in Malaysia"
         pagePath="wholesales/caesarstone"
         metaImg="/caesarstone/hero.jpg"
       />

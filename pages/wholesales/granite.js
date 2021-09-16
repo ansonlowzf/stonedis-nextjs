@@ -11,7 +11,7 @@ const Granite = () => {
     <>
       <MetaHead
         pageTitle="Wholesales Granite Slab"
-        pageDesc="We distributor / wholesale granite slab in Malaysia"
+        pageDesc="We distribute and wholesale granite slab in Malaysia"
         pagePath="wholesales/granite"
         metaImg="/granite/hero.png"
       />

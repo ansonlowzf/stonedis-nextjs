@@ -10,14 +10,15 @@ export default function Index() {
   return (
     <>
       <MetaHead
-        pageTitle="Homepage"
-        pageDesc="We distributor / wholesale quartz stone, sintered stone, granite, marble and onyx in Malaysia"
-        pagePath=""
+        pageTitle="Home"
+        pageDesc="We distributor or wholesale quartz stone, sintered stone, granite, marble and onyx in Malaysia"
+        pagePath="/"
         metaImg="/home/hero.jpg"
       />
+
       <Hero
         title="Stone Distributor Malaysia"
-        subtitle="Stone Surfacing Slab Distribution"
+        subtitle="Stone Surfacing Slab Wholesales and Distribution"
         imgSrc="/home-image/hero.png"
         imgAlt="Factory Entrance"
       />

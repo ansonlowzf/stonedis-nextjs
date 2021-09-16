@@ -52,7 +52,7 @@ const Hero = ({ imgSrc, imgAlt, title, subtitle }) => {
           </Typography>
           <Typography
             component="p"
-            variant="h3"
+            variant="h4"
             align="center"
             color="common.white"
             sx={{
@@ -63,7 +63,7 @@ const Hero = ({ imgSrc, imgAlt, title, subtitle }) => {
             {subtitle}
           </Typography>
           <Typography component="p" variant="h6" color="primary" gutterBottom>
-            Scroll
+            Explore
           </Typography>
           <ArrowDownward fontSize="large" color="primary" />
         </Grid>
