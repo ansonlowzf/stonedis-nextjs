@@ -32,8 +32,8 @@ const SideDrawer = () => {
           variannt="button"
           key={`${name}${i}`}
           sx={{
-            ml: (theme) => theme.spacing(5),
-            my: (theme) => theme.spacing(2),
+            ml: 5,
+            my: 2,
             textTransform: `uppercase`,
           }}
         >
